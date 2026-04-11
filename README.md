@@ -46,7 +46,7 @@
 
 <p align="center">
   <a href="https://github.com/ailcope">
-    <img src="https://streak-stats.demolab.com/?user=ailcope&theme=radium&hide_border=true" alt="Ailcope's GitHub Streak" />
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ailcope&theme=dracula" alt="Ailcope's GitHub Stats" />
   </a>
 </p>
 
