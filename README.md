@@ -19,11 +19,19 @@ Student, developer, and tech enthusiast building useful tools, self-hosted infra
 
 ### [BeaconMCP](https://github.com/Showdown76py/BeaconMCP)
 
-Remote MCP server for Proxmox VE clusters, BMC-managed hardware, and SSH hosts. I maintain the project alongside [Showdown76py](https://github.com/Showdown76py).
+Remote MCP server exposing Proxmox VE clusters, BMC-managed hardware, and SSH hosts to AI agents. Co-maintained with [Showdown76py](https://github.com/Showdown76py).
+
+### [EasyAtCal](https://github.com/Ailcope/EasyAtCal)
+
+CLI that scrapes your easy@work (McDonald's) shifts and syncs them to Apple, Google, or Outlook calendars via `.ics`. Python + Playwright.
+
+### [WeatherBar](https://github.com/Ailcope/WeatherBar)
+
+Live weather in the macOS menu bar — pure Python, no Xcode, no Swift.
 
 ### [MyPrettyGradES](https://github.com/Ailcope/MyPrettyGradES)
 
-A userscript that makes MyGES grades clearer with weighted averages, statistics, and charts.
+Userscript that upgrades MyGES grades with weighted averages, stats, and charts.
 
 ## Reach me
 
