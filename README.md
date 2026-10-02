@@ -24,7 +24,7 @@ Student, developer, and tech enthusiast building useful tools, self-hosted infra
 ## What I use
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,js,ts,php,nodejs,nextjs,bash,linux,docker,proxmox,nginx,cloudflare,debian,raspberrypi,git,github&perline=7" alt="Python, JavaScript, TypeScript, PHP, Node.js, Next.js, Bash, Linux, Docker, Proxmox, Nginx, Cloudflare, Debian, Raspberry Pi, Git, GitHub" />
+  <img src="https://skillicons.dev/icons?i=python,js,ts,php,nodejs,nextjs,bash,linux,docker,cloudflare,debian,raspberrypi,git&perline=7" alt="Python, JavaScript, TypeScript, PHP, Node.js, Next.js, Bash, Linux, Docker, Cloudflare, Debian, Raspberry Pi, Git" />
 </p>
 
 ## Reach me
