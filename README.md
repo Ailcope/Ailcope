@@ -17,12 +17,14 @@ Student, developer, and tech enthusiast building useful tools, self-hosted infra
 | **[BeaconMCP](https://github.com/Showdown76py/BeaconMCP)** | One MCP endpoint for a Proxmox VE cluster, the BMC-managed hardware under it, and your SSH hosts. Co-maintained with [Showdown76py](https://github.com/Showdown76py). | Python |
 | **[EasyAtCal](https://github.com/Ailcope/EasyAtCal)** | Scrapes your easy@work (McDonald's) shifts and syncs them to Apple, Google or Outlook calendars via `.ics`. | Python · Playwright |
 | **[WeatherBar](https://github.com/Ailcope/WeatherBar)** | Live weather in the macOS menu bar — pure Python, no Xcode, no Swift. | Python |
+| **[EduBar](https://github.com/Ailcope/EduBar)** | Your Edusign timetable in the macOS menu bar. | Swift |
+| **[asm-mac-arm](https://github.com/Ailcope/asm-mac-arm)** | Run x86-64 Linux assembly (NASM) on an ARM Mac, no Docker, no VM. | Python · NASM |
 | **[MyPrettyGradES](https://github.com/Ailcope/MyPrettyGradES)** | Userscript that upgrades MyGES grades with weighted averages, stats and charts. | JavaScript |
 
 ## What I use
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,js,ts,php,nodejs,nextjs,bash,docker,cloudflare,debian,raspberrypi&perline=6" alt="Python, JavaScript, TypeScript, PHP, Node.js, Next.js, Bash, Docker, Cloudflare, Debian, Raspberry Pi" />
+  <img src="https://skillicons.dev/icons?i=python,js,ts,php,nodejs,nextjs,bash,linux,docker,proxmox,nginx,cloudflare,debian,raspberrypi,git,github&perline=7" alt="Python, JavaScript, TypeScript, PHP, Node.js, Next.js, Bash, Linux, Docker, Proxmox, Nginx, Cloudflare, Debian, Raspberry Pi, Git, GitHub" />
 </p>
 
 ## Reach me
